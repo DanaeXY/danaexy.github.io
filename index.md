@@ -1,11 +1,11 @@
-#MARKDOWM
+# MARKDOWM
 
-##Proyectos personales
+## Proyectos personales
 
 Página hecha en markdown
 - Código Java
+  
 ``` java
-import java.util.Scanner;
 
 public class ejercicio1 {
 
